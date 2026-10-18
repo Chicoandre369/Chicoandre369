@@ -1,16 +1,19 @@
-## Hi there 👋
 
-<!--
-**Chicoandre369/Chicoandre369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hola, soy André 👋
+Ingeniería en Informática @ AIEP | Talento Digital SENCE - TI y Ciberseguridad
 
-Here are some ideas to get you started:
+🔭 Actualmente trabajando en: Sistema de gestión de pedidos para verdulería
+🌱 Aprendiendo: Python, SQL, Fundamentos de Ciberseguridad (Google)
+👯 Busco colaborar en: proyectos de automatización y SOC Junior
+⚡ Dato: 2 años en atención al cliente y seguridad en retail - sé traducir problemas técnicos a personas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stack
+`Python` `SQL` `Linux` `Git` `Networking`
+
+### 📂 Proyectos AIEP
+Pronto aquí: [AIEP-Ingenieria-Informatica](https://github.com/Chicoandre369/AIEP-Ingenieria-Informatica)
+
+### 📫 Contacto
+LinkedIn: /in/andre-alejandro-alexis-gutierrez-baeza-482b0b267
+Teléfono +569 72087822
+
