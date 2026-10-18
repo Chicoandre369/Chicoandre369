@@ -15,5 +15,5 @@ Pronto aquí: [AIEP-Ingenieria-Informatica](https://github.com/Chicoandre369/AIE
 
 ### 📫 Contacto
 LinkedIn: /in/andre-alejandro-alexis-gutierrez-baeza-482b0b267
-Teléfono +569 72087822
+
 
