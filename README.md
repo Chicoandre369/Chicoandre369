@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo-castillo.png" width="380" alt="El Castillo de la Fruta" />
+  <img src="assets/logo-castillo.png" width="260" alt="El Castillo de la Fruta" />
 </p>
 
 # Hola, soy André Gutiérrez Baeza 👋
