@@ -1,17 +1,19 @@
 <p align="center">
-  <img src="assets/logo-castillo.png" width="260" alt="El Castillo de la Fruta" />
+  <img src="assets/logo-castillo.png" width="380" alt="El Castillo de la Fruta" />
 </p>
 
 # Hola, soy André Gutiérrez Baeza 👋
 
 **Ingeniería en Informática @ AIEP** | **Talento Digital SENCE - TI y Ciberseguridad**
 
-[Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-[SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-[Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-[Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-[Networking](https://img.shields.io/badge/Networking-1A4D2E?style=flat-square)
-[Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Networking-1A4D2E?style=flat-square" alt="Networking" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+</p>
 
 ---
 
@@ -42,7 +44,11 @@
 
 ## 📫 Contacto
 
-[[LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andr%C3%A9-alejandro-alexis-gutierrez-baeza-482b0b267/)
+<p>
+  <a href="https://www.linkedin.com/in/andr%C3%A9-alejandro-alexis-gutierrez-baeza-482b0b267/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 ---
 
